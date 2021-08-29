@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#_@-p(kzbmfb!au+vc$s9z1#i5+htx7vxd4ni2k%=l!narn(fh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'icecafe.herokuapp.com/']
 
 
 # Application definition
